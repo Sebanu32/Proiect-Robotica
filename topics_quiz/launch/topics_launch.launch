@@ -1,0 +1,4 @@
+<launch>
+<node pkg="Proiect-Robotica" type="topics_quiz.py" name="my_launch_file" output="screen">
+</node>
+</launch>
