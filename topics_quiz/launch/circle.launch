@@ -1,0 +1,4 @@
+<launch>
+<node pkg ="Proiect-Robotica" type="circle.py" name="circle" output="screen">
+</node>
+</launch>
